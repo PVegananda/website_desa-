@@ -2,13 +2,17 @@ body {
   min-height: 3000px;
 }
 .jumbotron {
-  padding-top: 2em;
+  padding-top: 7em;
   background-color: rgb(229, 243, 243);
 }
 .jumbotron2 {
   background-color: white;
-  padding-top: 2em;
+  padding-top: 7em;
 }
 #gallery {
   background-color: rgb(229, 243, 243);
+}
+
+section {
+  padding-top: 7em;
 }
